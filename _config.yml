@@ -1,0 +1,12 @@
+# Site settings
+title: Ad1tya's lol
+email: a@ad1.not.me
+description: "I suck"
+baseurl: ""
+url: "http://www.ad1.me"
+twitter_username: Ad1tyaS
+github_username:  ad1tyas
+
+# Build settings
+markdown: kramdown
+permalink: pretty
